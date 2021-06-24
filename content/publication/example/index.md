@@ -39,7 +39,7 @@ featured: true
 # Custom links (uncomment lines below)
 # links:
 # - name: Custom Link
-url: 'https://www.medrxiv.org/content/10.1101/2021.06.16.21258817v1'
+# url: 'https://www.medrxiv.org/content/10.1101/2021.06.16.21258817v1'
 
 url_pdf: 'https://www.medrxiv.org/content/10.1101/2021.06.16.21258817v1.full.pdf'
 url_code: 'https://github.com/g-leech/masks_v_mandates'
