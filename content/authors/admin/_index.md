@@ -17,9 +17,11 @@ bio: Predoc ML researcher @ {Oxford, Cambridge}. Previously MSc Stats @ Ox and M
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Long-term AI safety
+- Interpretability/explainability/transparency
+- Accountability
+- Robustness
+- COVID-19 intervention effectiveness
 
 # Education to show in About widget
 education:
@@ -65,8 +67,4 @@ highlight_name: true
 
 Hello! Thanks for stopping by :) I am a predoctoral researcher interested in building and deploying advanced AI systems that are safe and that benefit humanity. I am currently working on interpretability--extending concept bottleneck models--with Adrian Weller at the University of Cambridge. Before that, I did research on COVID-19 intervention effectiveness in collaboration with Oxford's Applied and Theoretical ML group. Tyler Cowen said that my first (co-equal) first-author paper was 'The best mask-wearing study so far?' (emphasis on the '?'). I did a master's in statistics at Oxford, and an undergrad in maths on the beaches of St Andrews. I've done bits of research at Aalto University, Imperial College London, and the Future of Humanity Institute (Oxford). I like to meditate for 1-2h per day, dance around Oxford until my feet hurt, and radiate love 24/7.
 
-# My dissertation was on adversarial robustness. I wrote it while doing some research on causal identifiability of agent-incentives while participating in the Future of Humanity Institute's (FHI, Oxford) Summer Research Fellowship.
-
-# , interspersed with research internships in approximate Bayesian computation and deep Guassian processes at Aalto and Imperial College London, respectively.
-
-# {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}CV{{< /staticref >}}.
