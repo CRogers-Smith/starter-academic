@@ -51,4 +51,4 @@ subtitle = ""
  css_class = ""
 +++
 
-![image alt text](/media/fineandandy_short.png)
+![image alt text](/media/fineandandy_short.png) <!-- .element width="100%" -->
