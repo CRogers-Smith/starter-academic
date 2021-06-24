@@ -18,7 +18,7 @@ bio: Predoc ML researcher @ {Oxford, Cambridge}. Previously MSc Stats @ Ox and M
 # Interests to show in About widget
 interests:
 - Long-term AI safety
-- Interpretability/explainability/transparency
+- Interpretability/explainability
 - Accountability
 - Robustness
 - COVID-19 intervention effectiveness
