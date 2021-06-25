@@ -22,7 +22,7 @@ authors:
 - O Ratmann
 - G Leech
 - J Fabienne Sandkühler
-- C Rogers-Smith
+- "admin"
 - M Vollmer
 - H Unwin
 - Y Gal
