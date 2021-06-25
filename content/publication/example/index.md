@@ -6,7 +6,7 @@ title: "Mass mask-wearing notably reduces COVID-19 transmission"
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - Leech*
-- **Rogers-Smith*** _et al_.
+- admin
 
 # Author notes (optional)
 
