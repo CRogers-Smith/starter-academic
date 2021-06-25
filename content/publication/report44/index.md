@@ -5,35 +5,7 @@ title: "Report 44: Recent trends in SARS-CoV-2 variants of concern in England"
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors: 
-- S Mishra
-- S Mindermann
-- M Sharma
-- C Whittaker
-- T Mellan
-- T Wilton
-- D Klapsa
-- R Mate
-- M Fritzsche
-- M Zambon
-- J Ahuja
-- A Howes
-- X Miscouridou
-- G Nason
-- O Ratmann
-- G Leech
-- J Fabienne Sandkühler
-- "admin"
-- M Vollmer
-- H Unwin
-- Y Gal
-- M Chand
-- A Gandy
-- J Martin
-- E Volz
-- N Ferguson
-- S Bhatt
-- J Brauner
-- S Flaxman
+- S Mishra & S Mindermann & M Sharma & C Whittaker _et al._
 
 # Author notes (optional)
 author_notes:
