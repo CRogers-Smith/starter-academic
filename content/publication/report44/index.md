@@ -34,7 +34,7 @@ summary: The first paper to examine trends in the prevalence SARS-CoV-2 Variants
 tags: []
 
 # Display this page in the Featured widget?
-featured: false
+featured: true
 
 # Custom links (uncomment lines below)
 # links:
