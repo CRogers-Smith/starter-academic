@@ -8,7 +8,6 @@ authors:
 - Leech* & **Rogers-Smith*** _et al_.
 
 # Author notes (optional)
-author_notes:
 
 date: "2021-06-17T00:00:00Z"
 doi: ""
