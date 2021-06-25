@@ -23,26 +23,26 @@ publishDate:
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: EClinicalMedicine
+publication: EClinicalMedicine, published by THE LANCET
 publication_short:
 
-abstract: Mask-wearing has been a controversial measure to control the COVID-19 pandemic. While masks are known to substantially reduce disease transmission in healthcare settings [1–3], studies in community settings report inconsistent results [4–6]. Investigating the inconsistency within epidemiological studies, we find that a commonly used proxy, government mask mandates, does not correlate with large increases in mask-wearing in our window of analysis. We thus analyse the effect of mask-wearing on transmission instead, drawing on several datasets covering 92 regions on 6 continents, including the largest survey of individual-level wearing behaviour (n=20 million) [7]. Using a hierarchical Bayesian model, we estimate the effect of both mask-wearing and mask-mandates on transmission by linking wearing levels (or mandates) to reported cases in each region, adjusting for mobility and nonpharmaceutical interventions. We assess the robustness of our results in 123 experiments spanning 22 sensitivity analyses. Across these analyses, we find that an entire population wearing masks in public leads to a median reduction in the reproduction number 𝑅 of 25.8%, with 95% of the medians between 22.2% and 30.9%. In our window of analysis, the median reduction in 𝑅 associated with the wearing level observed in each region was 20.4% [2.0%, 23.3%]. We do not find evidence that mandating mask-wearing reduces transmission. Our results suggest that mask-wearing is strongly affected by factors other than mandates. We establish the effectiveness of mass mask-wearing, and highlight that wearing data, not mandate data, are necessary to infer this effect.
+abstract: Since its emergence in Autumn 2020, the SARS-CoV-2 Variant of Concern (VOC) B.1.1.7 rapidly became the dominant lineage across much of Europe. Simultaneously, several other VOCs were identified globally. Unlike B.1.1.7, some of these VOCs possess mutations thought to confer partial immune escape. Understanding when, whether, and how these additional VOCs pose a threat in settings where B.1.1.7 is currently dominant is vital. This is particularly true for England, which has high coverage from vaccines that are likely more protective against B.1.1.7 than some other VOCs. We examine trends in B.1.1.7’s prevalence in London and other English regions using passive-case detection PCR data, cross-sectional community infection surveys, genomic surveillance, and wastewater monitoring. Our results suggest shifts in the composition of SARS-CoV-2 lineages driving transmission in England between March and April 2021. Local transmission of non-B.1.1.7 VOCs may be increasing; this warrants urgent further investigation.
 
 # Summary. An optional shortened abstract.
-summary: We establish the effectiveness of mass mask-wearing, and highlight that wearing data, not mandate data, are necessary to infer this effect.
+summary: The first paper to examine trends in the prevalence SARS-CoV-2 Variants of Concern (VOCs) in London and other English regions. Our results suggest shifts in the composition of SARS-CoV-2 lineages were driving transmission in England between March and April 2021, and that local transmission of non-B.1.1.7 VOCs may be increasing--warranting urgent further investigation.
 
 tags: []
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
 # - name: Custom Link
 # url: 'https://www.medrxiv.org/content/10.1101/2021.06.16.21258817v1'
 
-url_pdf: 'https://www.medrxiv.org/content/10.1101/2021.06.16.21258817v1.full.pdf'
-url_code: 'https://github.com/g-leech/masks_v_mandates'
+url_pdf: 'https://spiral.imperial.ac.uk/bitstream/10044/1/88876/7/20-05-21-COVID19-Report%2044.pdf'
+url_code: 'https://github.com/ImperialCollegeLondon/SARS_CoV_2_variants_uk'
 url_dataset: ''
 url_poster: ''
 url_project: ''
