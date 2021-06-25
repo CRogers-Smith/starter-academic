@@ -52,7 +52,4 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-
-
 ![image alt text](/media/fin_n_dandy_final.png) <!-- .element width="100%" -->
-
