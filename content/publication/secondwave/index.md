@@ -1,5 +1,5 @@
 ---
-title: "Mass mask-wearing notably reduces COVID-19 transmission"
+title: "Understanding the effectiveness of government interventions in Europe’s second wave of COVID-19"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -10,7 +10,7 @@ authors:
 # Author notes (optional)
 author_notes:
 
-date: "2021-06-17T00:00:00Z"
+date: "2021-03-17T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -26,10 +26,10 @@ publication_types: ["3"]
 publication:
 publication_short:
 
-abstract: Mask-wearing has been a controversial measure to control the COVID-19 pandemic. While masks are known to substantially reduce disease transmission in healthcare settings [1–3], studies in community settings report inconsistent results [4–6]. Investigating the inconsistency within epidemiological studies, we find that a commonly used proxy, government mask mandates, does not correlate with large increases in mask-wearing in our window of analysis. We thus analyse the effect of mask-wearing on transmission instead, drawing on several datasets covering 92 regions on 6 continents, including the largest survey of individual-level wearing behaviour (n=20 million) [7]. Using a hierarchical Bayesian model, we estimate the effect of both mask-wearing and mask-mandates on transmission by linking wearing levels (or mandates) to reported cases in each region, adjusting for mobility and nonpharmaceutical interventions. We assess the robustness of our results in 123 experiments spanning 22 sensitivity analyses. Across these analyses, we find that an entire population wearing masks in public leads to a median reduction in the reproduction number 𝑅 of 25.8%, with 95% of the medians between 22.2% and 30.9%. In our window of analysis, the median reduction in 𝑅 associated with the wearing level observed in each region was 20.4% [2.0%, 23.3%]. We do not find evidence that mandating mask-wearing reduces transmission. Our results suggest that mask-wearing is strongly affected by factors other than mandates. We establish the effectiveness of mass mask-wearing, and highlight that wearing data, not mandate data, are necessary to infer this effect.
+abstract: As European governments face resurging waves of COVID-19, non-pharmaceutical interventions (NPIs) continue to be the primary tool for infection control. However, updated estimates of their relative effectiveness have been absent for Europe’s second wave, largely due to a lack of collated data that considers the increased subnational variation and diversity of NPIs. We collect the largest dataset of NPI implementation dates in Europe, spanning 114 subnational areas in 7 countries, with a systematic categorisation of interventions tailored to the second wave. Using a hierarchical Bayesian transmission model, we estimate the effectiveness of 17 NPIs from local case and death data. We manually validate the data, address limitations in modelling from previous studies, and extensively test the robustness of our estimates. The combined effect of all NPIs was smaller relative to estimates from the first half of 2020, indicating the strong influence of safety measures and individual protective behaviours--such as distancing--that persisted after the first wave. Closing specific businesses was highly effective. Gathering restrictions were highly effective but only for the strictest limits. We find smaller effects for closing educational institutions compared to the first wave, suggesting that safer operation of schools was possible with a set of stringent safety measures including testing and tracing, preventing mixing, and smaller classes. These results underscore that effectiveness estimates from the early stage of an epidemic are measured relative to pre-pandemic behaviour. Updated estimates are required to inform policy in an ongoing pandemic.
 
 # Summary. An optional shortened abstract.
-summary: We establish the effectiveness of mass mask-wearing, and highlight that wearing data, not mandate data, are necessary to infer this effect.
+summary: The first paper to study the effectiveness of non-pharmaceutical interventions (NPIs) in Europe's second wave. We collect the largest dataset of NPI implementation dates in Europe, spanning 114 subnational areas in 7 countries. Using a hierarchical Bayesian transmission model, we estimate the effectiveness of 17 NPIs from local case and death data. We manually validate the data, address limitations in modelling from previous studies, and extensively test the robustness of our estimates. The combined effect of all NPIs was smaller relative to estimates from the first half of 2020, indicating the strong influence of safety measures and individual protective behaviours--such as distancing--that persisted after the first wave.
 
 tags: []
 
@@ -41,8 +41,8 @@ featured: true
 # - name: Custom Link
 # url: 'https://www.medrxiv.org/content/10.1101/2021.06.16.21258817v1'
 
-url_pdf: 'https://www.medrxiv.org/content/10.1101/2021.06.16.21258817v1.full.pdf'
-url_code: 'https://github.com/g-leech/masks_v_mandates'
+url_pdf: 'https://www.medrxiv.org/content/10.1101/2021.03.25.21254330v1.full.pdf'
+url_code: 'https://github.com/MrinankSharma/COVID19NPISecondWave'
 url_dataset: ''
 url_poster: ''
 url_project: ''
