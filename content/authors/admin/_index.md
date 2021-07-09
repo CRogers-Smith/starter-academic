@@ -66,5 +66,3 @@ highlight_name: true
 ---
 
 Hello! Thanks for stopping by :) I am a predoctoral researcher interested in building and deploying advanced AI systems that are safe and that benefit humanity. I am currently working on interpretability--extending concept bottleneck models--with Adrian Weller at the University of Cambridge. Before that, I did research on COVID-19 intervention effectiveness in collaboration with Oxford's Applied and Theoretical ML group. Tyler Cowen said that my first (co-equal) first-author paper was 'The best mask-wearing study so far?' (emphasis on the '?'). I did a master's in statistics at Oxford, and an undergrad in maths on the beaches of St Andrews. I've done bits of research at Aalto University, Imperial College London, and the Future of Humanity Institute (Oxford). I like to meditate for 1-2h per day, dance around Oxford until my feet hurt, and radiate love 24/7.
-
-# {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}CV{{< /staticref >}}.
